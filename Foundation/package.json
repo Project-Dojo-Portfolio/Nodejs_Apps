@@ -1,0 +1,16 @@
+{
+  "name": "foundation",
+  "version": "1.0.0",
+  "description": "base and Foundation Nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "start-server": "nodemon app.js"
+  },
+  "author": "Kevin Ortiz Merchan",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
